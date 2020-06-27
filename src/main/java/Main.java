@@ -93,7 +93,7 @@ public class Main {
                 {{"mr", "mq", "ly", "ad"},
                         {"le", "lt", "dr", "fd"},
                         {"cb", "cc", "ff", "er"},
-                        {"al", "dy", "mv", "me"}};
+                        {"am", "dy", "mv", "me"}};
         for (int i = 0; i < ARRAY_HEIGHT; i++) {
             for (int j = 0; j < ARRAY_HEIGHT; j++) {
                 if (matrixArray[i][j].equals(matrixArray[j][i])) {
